@@ -17,11 +17,35 @@ The primary source of data used is Sales Data.csv which was provided as part of 
    1. Data Cleaning
    2. Analysis.
 - Structured Query Language (SQL) for Quring of Data.
-- Power Bi for Visualization
+- Power BI for Visualization
 - GitHub for Portfolio Building
 
-Excel:
-o Analyze customer data using pivot tables to find subscription patterns.
-o Calculate the average subscription duration and identify the most popular 
-subscription types.
-o Create any other interesting reports
+### Data Cleaning and Preparations
+I performed the following actions in the cleaning phase
+   1. Data Loading and Inspection
+   2. Handling missing variables
+   3. Data Cleaning and formatting
+
+### Exploratory Data Analysis 
+This involved exploring the data to answer some questions about the Data such as;
+ - Summarizing the sales data to show total sales by product, region, and month using pivot tables 
+ - Use Excel formulas to calculate metrics such as average sales per product and total revenue by region.
+
+### Data Analysis 
+This is where I queried my data 
+
+```SQL
+SELECT *
+FROM [dbo].[Customer Data]
+
+To Retrieve the total sales for each product category.---
+```SQL
+To Retrieve the total sales for each product category.---
+SELECT Product,SUM(Quantity) as Total_Sales
+FROM [Sale Data]
+GROUP BY Product
+
+
+
+
+
