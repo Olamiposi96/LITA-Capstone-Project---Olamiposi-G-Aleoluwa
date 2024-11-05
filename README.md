@@ -2,8 +2,15 @@
 In this project, I was tasked with analyzing the sales performance of a retail store and analyzing customer data for a subscription service to identify  segments and trends. The goal is to produce an interactive Power BI  dashboard that highlights these findings
 
 ## Project 1 Title - Sales Performance Analysis
+
+#### Table of Content
 [Project Overview](#project-overview)
 
+[Data Sources](data-sources)
+
+[Data Cleaning and Preparations](data-cleaning-and-preparation)
+
+[Data Analysis](data-analysis) 
 
 ### Project Overview
 In this project, I was tasked with analyzing the sales performance of a retail store. 
