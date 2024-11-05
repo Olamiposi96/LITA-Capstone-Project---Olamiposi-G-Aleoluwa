@@ -3,7 +3,7 @@ In this project, I was tasked with analyzing the sales performance of a retail s
 
 ## Project 1 Title - Sales Performance Analysis
 
-#### Table of Content
+### Table of Content
 [Project Overview](#project-overview)
 
 [Data Sources](data-sources)
