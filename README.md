@@ -40,6 +40,8 @@ This involved exploring the data to answer some questions about the Data such as
  - Summarizing the sales data to show total sales by product, region, and month using pivot tables 
  - Use Excel formulas to calculate metrics such as average sales per product and total revenue by region.
 
+https://github.com/Olamiposi96/LITA-Capstone-Project---Olamiposi-G-Aleoluwa/blob/main/Sales%20Performance%20Analysis.png?raw=true
+
 ### Data Analysis 
 This is where I queried my data 
 
