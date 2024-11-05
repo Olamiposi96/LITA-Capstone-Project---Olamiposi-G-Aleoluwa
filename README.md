@@ -56,8 +56,11 @@ SELECT Product,SUM(Quantity) as Total_Sales
 FROM [Sale Data]
 GROUP BY Product
 ```
+![SQL Queries](https://github.com/user-attachments/assets/0443a5c1-5f19-459f-aa5a-d744373cb990)
+![SQL Queries (2)](https://github.com/user-attachments/assets/cf8f7bc3-896c-4d5a-93f5-f617d20c126b)
 
 ### Data Visualization
+
 
 
 
