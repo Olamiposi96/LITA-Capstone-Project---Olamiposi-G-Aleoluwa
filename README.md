@@ -1,7 +1,9 @@
 # LITA-Capstone-Project---Olamiposi-G-Aleoluwa
 In this project, I was tasked with analyzing the sales performance of a retail store and analyzing customer data for a subscription service to identify  segments and trends. The goal is to produce an interactive Power BI  dashboard that highlights these findings
 
-## Project Title - Sales Performance Analysis
+## Project 1 Title - Sales Performance Analysis
+[Project Overview](#project-overview)
+
 
 ### Project Overview
 In this project, I was tasked with analyzing the sales performance of a retail store. 
@@ -37,15 +39,16 @@ This is where I queried my data
 ```SQL
 SELECT *
 FROM [dbo].[Customer Data]
+```
+To Retrieve the total sales for each product category
 
-To Retrieve the total sales for each product category.---
 ```SQL
-To Retrieve the total sales for each product category.---
 SELECT Product,SUM(Quantity) as Total_Sales
 FROM [Sale Data]
 GROUP BY Product
+```
 
-
+### Data Visualization
 
 
 
