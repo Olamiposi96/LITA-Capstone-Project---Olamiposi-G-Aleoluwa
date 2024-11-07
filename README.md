@@ -52,12 +52,15 @@ FROM [dbo].[Customer Data]
 To Retrieve the total sales for each product category
 
 ```SQL
-SELECT Product,SUM(Quantity) as Total_Sales
+SELECT Product,SUM(Quantity) as Total_Sales!
 FROM [Sale Data]
 GROUP BY Product
 ```
-![SQL Queries](https://github.com/user-attachments/assets/0443a5c1-5f19-459f-aa5a-d744373cb990)
-![SQL Queries (2)](https://github.com/user-attachments/assets/cf8f7bc3-896c-4d5a-93f5-f617d20c126b)
+![Sales Trend](https://github.com/user-attachments/assets/beba242c-28d2-4c51-8318-51f6e5f683bd) 
+![Sales trend 2](https://github.com/user-attachments/assets/f133fda7-6ca1-43c3-b823-d14a8bbe3c89)
+![Sales trend 3](https://github.com/user-attachments/assets/41d3f18b-e230-4c67-9771-cb95da253a60)
+
+
 
 ### Data Visualization
 
